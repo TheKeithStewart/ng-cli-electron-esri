@@ -1,4 +1,4 @@
-# ElectronMap
+# ng-cli-electron-esri
 
 This project is meant to demponstrate how to run a mapping application using the ArcGIS API for JavaScript inside of Electron.
 
