@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { isLoaded, bootstrap, dojoRequire } from './esri-loader';
+import { isLoaded, bootstrap, dojoRequire } from 'esri-loader';
 
 @Injectable()
 export class EsriLoaderService {
